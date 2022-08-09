@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sachin Aswal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<image align="right" alt="Coding" width="400" height="300"src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg">
+<image align="right" alt="Coding" width="400" height="280"src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinaswal29&label=Profile%20views&color=0e75b6&style=flat" alt="sachinaswal29" /> </p>
 
