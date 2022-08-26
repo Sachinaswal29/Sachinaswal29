@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **sachinaswal2906@gmail.com**
 
-⚡ Fun fact **I am funny.I like to make people laugh
+<!--⚡ Fun fact **I am funny.I like to make people laugh -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
