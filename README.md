@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinaswal29&label=Profile%20views&color=0e75b6&style=flat" alt="sachinaswal29" /> </p>
 
-<!-- - 📫 How to reach me **sachinaswal2906@gmail.com**-->
+- 📫 How to reach me **sachinaswal2906@gmail.com**
 
 <!--⚡ Fun fact **I am funny.I like to make people laugh -->
 
